@@ -1,0 +1,10 @@
+{
+  "name": "tokihiro000/simple-event",
+  "require": {
+  },
+  "autoload": {
+    "psr-0": {
+      "SimpleEvent": "."
+    }
+  }
+}
