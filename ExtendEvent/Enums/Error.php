@@ -1,0 +1,2 @@
+<?php
+define('IS_NOT_CALLABLE_EXCEPTOIN', 10001);

@@ -1,10 +1,10 @@
 {
-  "name": "tokihiro000/simple-event",
+  "name": "tokihiro000/extend-event",
   "require": {
   },
   "autoload": {
     "psr-0": {
-      "SimpleEvent": "."
+      "ExtendEvent": "."
     }
   }
 }
